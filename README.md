@@ -17,3 +17,12 @@ I am passionate about learning about emerging technologies and making the most o
 # 💻 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,git,mongodb,mysql) 
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width=40 height=40/> 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=luisitoluis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=luisitoluis&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=luisitoluis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
