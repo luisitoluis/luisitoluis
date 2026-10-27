@@ -20,7 +20,7 @@ I am passionate about learning about emerging technologies and making the most o
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=luisitoluis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luisitoluis&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=luisitoluis&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 ![](https://streak-stats.demolab.com/?user=luisitoluis&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luisitoluis&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
