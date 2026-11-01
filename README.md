@@ -15,8 +15,7 @@ I am passionate about learning about emerging technologies and making the most o
 <br />
 
 # 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,git,mongodb,mysql) 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width=40 height=40/> 
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,astro,react,tailwind,git,mongodb,mysql)
 
 
 # 📊 GitHub Stats:
